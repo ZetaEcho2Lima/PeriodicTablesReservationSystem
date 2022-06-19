@@ -1,0 +1,14 @@
+.side-bar {
+  background-color: #5b8e7d;
+}
+
+.show{
+  transition: all 1s;
+}
+
+@media screen and (max-width: 991px) {
+  .side-bar {
+    background-color: #5b8e7d;
+  }
+
+}

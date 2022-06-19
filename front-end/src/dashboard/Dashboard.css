@@ -1,0 +1,23 @@
+
+
+h1, h4 {
+  font-family: 'Quicksand', sans-serif;
+}
+
+
+.dashboard-nav button {
+  background-color: #fff;
+  color: black;
+  margin: 0px 5px;
+}
+
+.seat button{
+  background-color: #fff;
+  color: black;
+}
+
+.dashboard{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
