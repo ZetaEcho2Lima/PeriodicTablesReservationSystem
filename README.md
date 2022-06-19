@@ -10,6 +10,8 @@ Front-End: React.js, Bootstrap, HTML, CSS
 Back-End: Express.js, Node.js, Knex, PostgreSQL
 Deployment & Version Control: Git, GitHub, Heroku
 
+Deployed Version of the Application can be found here: https://order-up-client.vercel.app/dashboard
+
 ## Database setup
 
 Set up four new ElephantSQL database instances - development, test, preview, and production - by following the instructions in the "PostgreSQL: Creating & Deleting Databases" checkpoint.
