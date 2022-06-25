@@ -10,7 +10,7 @@ Front-End: React.js, Bootstrap, HTML, CSS
 Back-End: Express.js, Node.js, Knex, PostgreSQL
 Deployment & Version Control: Git, GitHub, Heroku
 
-Deployed Version of the Application can be found here: https://order-up-client.vercel.app/dashboard
+Deployed Version of the Application can be found here: https://reservation-system-front-end.vercel.app/dashboard
 
 ## Database setup
 
