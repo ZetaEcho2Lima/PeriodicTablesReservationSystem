@@ -8,9 +8,6 @@ Status updates are provided throughout, and when a table is finished dining, it 
 This application was built with the following tools:
 Front-End: React.js, Bootstrap, HTML, CSS
 Back-End: Express.js, Node.js, Knex, PostgreSQL
-Deployment & Version Control: Git, GitHub, Heroku
-
-Deployed Version of the Application can be found here: https://reservation-system-front-end.vercel.app/dashboard
 
 ## Database setup
 
